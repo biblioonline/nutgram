@@ -1,5 +1,5 @@
 {
-    "name": "nutgram/nutgram",
+    "name": "biblioonline/nutgram",
     "description": "The Telegram bot library that doesn't drive you nuts",
     "keywords": [
         "nutgram",
@@ -10,7 +10,7 @@
         "framework",
         "laravel"
     ],
-    "homepage": "https://github.com/SergiX44/Nutgram",
+    "homepage": "https://github.com/biblioonline/nutgram",
     "license": "MIT",
     "authors": [
         {
@@ -27,7 +27,7 @@
     "require": {
         "php": ">=8.0",
         "ext-json": "*",
-        "guzzlehttp/guzzle": "^7.2",
+        "guzzlehttp/guzzle": "~6.0|^7.0",
         "illuminate/macroable": "^8.0|^9.0",
         "league/container": "^4.2",
         "opis/closure": "^3.6",
