@@ -51,7 +51,7 @@ class Nutgram extends ResolveHandlers
     /**
      * @var ClientInterface
      */
-    private ClientInterface $http;
+    private $http;
 
     /**
      * @var Hydrator
